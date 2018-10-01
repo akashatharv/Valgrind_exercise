@@ -1,6 +1,6 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/akashatharv/Valgrind_exercise.svg?branch=master)](https://travis-ci.org/akashatharv/Valgrind_exercise)
-[![Coverage Status](https://coveralls.io/repos/github/akashatharv/Valgrind_exercise/badge.svg?branch=master)](https://coveralls.io/github/akashatharv/Valgrind_exercise?branch=master))
+[![Coverage Status](https://coveralls.io/repos/github/akashatharv/Valgrind_exercise/badge.svg?branch=master)](https://coveralls.io/github/akashatharv/Valgrind_exercise?branch=master)
 ---
 
 ## Overview
